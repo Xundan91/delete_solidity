@@ -1,0 +1,11 @@
+1. npm init -y
+2. install node module npm install -g @remix-project/remixd and in file system
+3. then run "remix node node_modules\@remix-project\remixd\src\bin\remixd.js"
+
+    then make this in Script so we dont have to copy the path
+
+4.In script add "remixd" : "node node_modules\@remix-project\remixd\src\bin\remixd.js",
+  save  
+  then
+  run to connect localhost to remix by running commmand
+  "npm run remixd"

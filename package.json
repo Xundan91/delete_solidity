@@ -1,0 +1,17 @@
+{
+  "name": "yt_eth_sol",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "remixd": "node node_modules/@remix-project/remixd/src/bin/remixd.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@remix-project/remixd": "^0.6.32",
+    "solc": "^0.8.26"
+  }
+}
